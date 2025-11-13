@@ -21,7 +21,7 @@ php artisan serve
 ### 2. Frontend (React) 🌐
 
 ```bash
-cd Front/cadastro_usuarios
+cd Front
 npm install
 # Configure o arquivo .env com a URL da API:
 # VITE_API_URL=http://localhost:5172
